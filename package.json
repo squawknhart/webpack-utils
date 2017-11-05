@@ -1,0 +1,15 @@
+{
+  "name": "webpack-utils",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://squawknhart@github.com/squawknhart/webpack-utils.git",
+  "author": "Shunsuke Nishino <squawknhart@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "private": true,
+  "workspaces": [
+    "stringified-node-env"
+  ]
+}
