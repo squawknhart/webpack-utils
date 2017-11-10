@@ -10,6 +10,9 @@
   },
   "private": true,
   "workspaces": [
-    "stringified-node-env"
-  ]
+    "packages/*"
+  ],
+  "devDependencies": {
+    "stringified-node-env": "~0.1.0"
+  }
 }
