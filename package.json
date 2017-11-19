@@ -13,6 +13,14 @@
     "packages/*"
   ],
   "devDependencies": {
-    "stringified-node-env": "~0.1.0"
+    "stringified-node-env": "0.1.0",
+    "eslint": "^4.11.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-config-prettier": "^2.8.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-prettier": "^2.3.1",
+    "jest": "^21.3.0-beta.8",
+    "babel-eslint": "^8.0.2",
+    "prettier": "^1.8.2"
   }
 }
