@@ -1,7 +1,9 @@
 {
-  "name": "polyfills",
+  "name": "@webpack-utils/polyfills",
   "version": "0.1.0",
   "main": "polyfills.js",
+  "repository": "https://github.com/squawknhart/webpack-utils/tree/master/packages/polyfills",
+  "author": "Shunsuke Nishino <squawknhart@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "object-assign": "^4.1.1",

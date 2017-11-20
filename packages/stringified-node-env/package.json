@@ -1,7 +1,9 @@
 {
-  "name": "stringified-node-env",
+  "name": "@webpack-utils/stringified-node-env",
   "version": "0.1.0",
   "main": "stringified-node-env.js",
+  "repository": "https://github.com/squawknhart/webpack-utils/tree/master/packages/stringified-node-env",
+  "author": "Shunsuke Nishino <squawknhart@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "immutable": "^4.0.0-rc.9"
